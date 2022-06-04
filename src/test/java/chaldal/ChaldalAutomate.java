@@ -48,6 +48,12 @@ public class ChaldalAutomate {
 		
 	}
 	
+public void test()
+{
+	
+}
+
+
 	@Test
 	public void searchToothBrush() throws InterruptedException {
 //		
